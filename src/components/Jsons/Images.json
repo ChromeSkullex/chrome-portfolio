@@ -1,0 +1,643 @@
+{
+  "categories": {
+    "all": [
+      {
+        "title": "Commission: Comet",
+        "src": "/artwork/2023/9.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Commission: Ven",
+        "src": "/artwork/2023/8.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Gift: SeaSaltShrimp",
+        "src": "/artwork/2023/4.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Battle Turtle",
+        "src": "/artwork/2023/3.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Commission: Jess",
+        "src": "/artwork/2023/2.png",
+        "data": {
+          "date": "3/01/2023"
+        }
+      },
+      {
+        "title": "Charlie and Jules",
+        "src": "/artwork/2023/1.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Image 1",
+        "src": "/artwork/2022/0.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2022/1.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2022/10.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2022/11.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2022/12.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2022/13.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "/artwork/2022/15.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 8",
+        "src": "/artwork/2022/16.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 9",
+        "src": "/artwork/2022/17.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 10",
+        "src": "/artwork/2022/18.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 11",
+        "src": "/artwork/2022/19.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 12",
+        "src": "/artwork/2022/2.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 13",
+        "src": "/artwork/2022/20.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 14",
+        "src": "/artwork/2022/21.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 15",
+        "src": "/artwork/2022/22.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 16",
+        "src": "/artwork/2022/23.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 17",
+        "src": "/artwork/2022/24.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 18",
+        "src": "/artwork/2022/25.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 19",
+        "src": "/artwork/2022/26.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 20",
+        "src": "/artwork/2022/3.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 21",
+        "src": "/artwork/2022/4.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 22",
+        "src": "/artwork/2022/5.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 23",
+        "src": "/artwork/2022/6.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 24",
+        "src": "/artwork/2022/7.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 25",
+        "src": "/artwork/2022/8.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 26",
+        "src": "/artwork/2022/9.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 1",
+        "src": "/artwork/2021/0.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2021/1.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2021/2.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2021/3.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2021/4.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2021/5.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "/artwork/2021/6.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },{
+        "title": "Image 1",
+        "src": "/artwork/2020/0.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2020/1.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2020/2.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2020/3.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2020/4.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2020/5.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      }
+    ],
+    "y_one": [
+      {
+        "title": "Commission: Comet",
+        "src": "/artwork/2023/9.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Commission: Ven",
+        "src": "/artwork/2023/8.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Gift: SeaSaltShrimp",
+        "src": "/artwork/2023/4.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Battle Turtle",
+        "src": "/artwork/2023/3.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      },
+      {
+        "title": "Commission: Jess",
+        "src": "/artwork/2023/2.png",
+        "data": {
+          "date": "3/01/2023"
+        }
+      },
+      {
+        "title": "Charlie and Jules",
+        "src": "/artwork/2023/1.png",
+        "data": {
+          "date": "2/16/2023"
+        }
+      }
+    ],
+    "y_two": [
+      {
+        "title": "Image 1",
+        "src": "/artwork/2022/0.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2022/1.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2022/10.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2022/11.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2022/12.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2022/13.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "/artwork/2022/15.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 8",
+        "src": "/artwork/2022/16.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 9",
+        "src": "/artwork/2022/17.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 10",
+        "src": "/artwork/2022/18.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 11",
+        "src": "/artwork/2022/19.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 12",
+        "src": "/artwork/2022/2.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 13",
+        "src": "/artwork/2022/20.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 14",
+        "src": "/artwork/2022/21.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 15",
+        "src": "/artwork/2022/22.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 16",
+        "src": "/artwork/2022/23.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 17",
+        "src": "/artwork/2022/24.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 18",
+        "src": "/artwork/2022/25.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 19",
+        "src": "/artwork/2022/26.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 20",
+        "src": "/artwork/2022/3.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 21",
+        "src": "/artwork/2022/4.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 22",
+        "src": "/artwork/2022/5.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 23",
+        "src": "/artwork/2022/6.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 24",
+        "src": "/artwork/2022/7.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 25",
+        "src": "/artwork/2022/8.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      },
+      {
+        "title": "Image 26",
+        "src": "/artwork/2022/9.png",
+        "data": {
+          "date": "1/01/2022"
+        }
+      }
+    ],
+    "y_three": [
+      {
+        "title": "Image 1",
+        "src": "/artwork/2021/0.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2021/1.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2021/2.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2021/3.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2021/4.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2021/5.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "/artwork/2021/6.png",
+        "data": {
+          "date": "1/01/2021"
+        }
+      }
+    ],
+    "y_four":[
+      {
+        "title": "Image 1",
+        "src": "/artwork/2020/0.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "/artwork/2020/1.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "/artwork/2020/2.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "/artwork/2020/3.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "/artwork/2020/4.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "/artwork/2020/5.png",
+        "data": {
+          "date": "1/01/2020"
+        }
+      }
+    ]
+  }
+}
