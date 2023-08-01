@@ -1,46 +1,108 @@
 {
   "categories": {
+    "homepage": [
+      {
+        "src": "/chrome-portfolio/artwork/2022/18.png"
+      },
+      {
+        "src": "/chrome-portfolio/artwork/2023/12.png"
+      },
+      {
+        "src": "/chrome-portfolio/artwork/2022/2.png"
+      },
+      {
+        "src": "/chrome-portfolio/artwork/2021/5.png"
+      },
+      {
+        "src": "/chrome-portfolio/artwork/2020/4.png"
+      },
+      {
+        "src": "/chrome-portfolio/artwork/2023/11.png"
+      }
+    ],
     "all": [
       {
-        "title": "Commission: Comet",
-        "src": "./artwork/2023/9.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Commission: Ven",
-        "src": "./artwork/2023/8.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Gift: SeaSaltShrimp",
-        "src": "./artwork/2023/4.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Battle Turtle",
-        "src": "./artwork/2023/3.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Commission: Jess",
-        "src": "./artwork/2023/2.png",
-        "data": {
-          "date": "3/01/2023"
-        }
-      },
-      {
-        "title": "Charlie and Jules",
+        "title": "Image 1",
         "src": "./artwork/2023/1.png",
         "data": {
-          "date": "2/16/2023"
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "./artwork/2023/10.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "./artwork/2023/11.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "./artwork/2023/12.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "./artwork/2023/2.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "./artwork/2023/3.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "./artwork/2023/4.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 8",
+        "src": "./artwork/2023/5.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 9",
+        "src": "./artwork/2023/6.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 10",
+        "src": "./artwork/2023/7.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 11",
+        "src": "./artwork/2023/8.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 12",
+        "src": "./artwork/2023/9.png",
+        "data": {
+          "date": "1/01/2023"
         }
       },
       {
@@ -318,45 +380,87 @@
     ],
     "y_one": [
       {
-        "title": "Commission: Comet",
-        "src": "./artwork/2023/9.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Commission: Ven",
-        "src": "./artwork/2023/8.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Gift: SeaSaltShrimp",
-        "src": "./artwork/2023/4.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Battle Turtle",
-        "src": "./artwork/2023/3.png",
-        "data": {
-          "date": "2/16/2023"
-        }
-      },
-      {
-        "title": "Commission: Jess",
-        "src": "./artwork/2023/2.png",
-        "data": {
-          "date": "3/01/2023"
-        }
-      },
-      {
-        "title": "Charlie and Jules",
+        "title": "Image 1",
         "src": "./artwork/2023/1.png",
         "data": {
-          "date": "2/16/2023"
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 2",
+        "src": "./artwork/2023/10.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 3",
+        "src": "./artwork/2023/11.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 4",
+        "src": "./artwork/2023/12.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 5",
+        "src": "./artwork/2023/2.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 6",
+        "src": "./artwork/2023/3.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 7",
+        "src": "./artwork/2023/4.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 8",
+        "src": "./artwork/2023/5.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 9",
+        "src": "./artwork/2023/6.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 10",
+        "src": "./artwork/2023/7.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 11",
+        "src": "./artwork/2023/8.png",
+        "data": {
+          "date": "1/01/2023"
+        }
+      },
+      {
+        "title": "Image 12",
+        "src": "./artwork/2023/9.png",
+        "data": {
+          "date": "1/01/2023"
         }
       }
     ],
