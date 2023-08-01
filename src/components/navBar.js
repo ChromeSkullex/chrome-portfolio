@@ -9,11 +9,11 @@ function NavBar(){
     return (
         <Navbar bg="light" variant="light">
             <Container>
-                <Navbar.Brand className="me-auto">  <NavLink  as={Link}  to="/">CHROME • SKULLEX</NavLink> </Navbar.Brand>
+                <Navbar.Brand className="me-auto">  <NavLink  as={Link}  to="/chrome-portfolio">CHROME • SKULLEX</NavLink> </Navbar.Brand>
                 <Nav className="p-2 px-5 mx-1">
-                    <Nav.Link  as={Link} to="/gallery">GALLERY</Nav.Link>
-                    <Nav.Link  as={Link}  to="/about">ABOUT</Nav.Link>
-                    <Nav.Link  as={Link}  to="/contact">CONTACT</Nav.Link>
+                    <Nav.Link  as={Link} to="/chrome-portfolio/gallery">GALLERY</Nav.Link>
+                    <Nav.Link  as={Link}  to="/chrome-portfolio/about">ABOUT</Nav.Link>
+                    <Nav.Link  as={Link}  to="/chrome-portfolio/contact">CONTACT</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>

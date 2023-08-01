@@ -19,25 +19,13 @@ function App() {
             <NavBar />
 
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/gallery" element={<Gallery />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route path="/chrome-portfolio" element={<Home />} />
+                <Route path="/chrome-portfolio/gallery" element={<Gallery />} />
+                <Route path="/chrome-portfolio/about" element={<About />} />
+                <Route path="/chrome-portfolio/contact" element={<Contact />} />
             </Routes>
         </BrowserRouter>
-        /*
-        <Router>
-            <div className="App">
-                <NavBar />
-                <Routes>
 
-                </Routes>
-                <Route exact path="/" component={Home} />
-                <Route path="/gallery" component={Gallery} />
-                <Route path="/about" component={About} />
-                <Route path="/contact" component={Contact} />
-            </div>
-        </Router>*/
 
     );
 }

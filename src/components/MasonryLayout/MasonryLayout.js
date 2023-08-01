@@ -19,6 +19,7 @@ const MasonryLayout = ({images}) =>{
 
         >
             {images.map((item, index) => (
+
                 <MasonryBox
                     imgTitle={item.title}
                     imgSrc={item.src}
