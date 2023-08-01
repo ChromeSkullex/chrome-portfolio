@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/chrome-portfolio/static/css/main.dddb5692.css",
-    "main.js": "/chrome-portfolio/static/js/main.3b294649.js",
+    "main.css": "/chrome-portfolio/static/css/main.23373d0d.css",
+    "main.js": "/chrome-portfolio/static/js/main.2a6815e6.js",
     "static/js/787.2618e599.chunk.js": "/chrome-portfolio/static/js/787.2618e599.chunk.js",
     "static/media/bootstrap-icons.woff?": "/chrome-portfolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/chrome-portfolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "index.html": "/chrome-portfolio/index.html",
-    "main.dddb5692.css.map": "/chrome-portfolio/static/css/main.dddb5692.css.map",
-    "main.3b294649.js.map": "/chrome-portfolio/static/js/main.3b294649.js.map",
+    "main.23373d0d.css.map": "/chrome-portfolio/static/css/main.23373d0d.css.map",
+    "main.2a6815e6.js.map": "/chrome-portfolio/static/js/main.2a6815e6.js.map",
     "787.2618e599.chunk.js.map": "/chrome-portfolio/static/js/787.2618e599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dddb5692.css",
-    "static/js/main.3b294649.js"
+    "static/css/main.23373d0d.css",
+    "static/js/main.2a6815e6.js"
   ]
 }
